@@ -19,7 +19,7 @@ The tasks page contains [add description of tasks or functionality here]. Custom
 
 2. **Run the App:**
    ```bash
-   streamlit run run.py
+   streamlit run app/app.py
    ```
 
    Visit the provided URL in your web browser to interact with the app.
@@ -38,6 +38,6 @@ Your contributions are highly appreciated! 🌟
 
 ## Thanks for Visiting! 🙌
 
-Thank you for checking out **Your Streamlit App Name**. Feel free to explore, use, and contribute to make it even better. If you have any questions or feedback, please don't hesitate to reach out.
+Thank you for checking out **ProductiFlow**. Feel free to explore, use, and contribute to make it even better. If you have any questions or feedback, please don't hesitate to reach out.
 
 Happy coding! 🚀
