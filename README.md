@@ -2,13 +2,15 @@
 
 Welcome to **ProductiFlow**! This app provides a home page and tasks page for your convenience.
 
+### Deployed link : https://taskzen.streamlit.app/
+
 ## Home Page 🏠
 
 The home page welcomes you with a friendly message and showcases a sample image. Feel free to explore and enjoy the content!
 
 ## Tasks Page ✅
 
-The tasks page contains [add description of tasks or functionality here]. Customize it to fit your needs and stay organized.
+The tasks page contains a todo list with many features. Customize it to fit your needs and stay organized.
 
 ## How to Use 🛠️
 
